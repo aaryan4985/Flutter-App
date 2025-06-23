@@ -67,3 +67,6 @@ android/local.properties
 
 # Others
 pubspec.lock
+
+
+android/app/google-services.json
